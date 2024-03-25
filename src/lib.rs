@@ -15,5 +15,5 @@ extern {
 
 #[wasm_bindgen]
 pub fn greet() {
-    alert("Hello, untitled1!");
+    alert("Hello, mytest!");
 }
